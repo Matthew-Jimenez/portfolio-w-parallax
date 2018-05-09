@@ -144,6 +144,9 @@ html {
   .parallax-3 {
     background-attachment: scroll;  
   } 
+  .parallax-4 {
+    background-attachment: scroll;
+  }
 }
 
 
