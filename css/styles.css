@@ -251,11 +251,13 @@ html {
 
 .project-list {
   list-style: none;
+  margin-left: 0;
+  padding-left: 0;
 
 }
 
 .project-list-item {
-  margin: 50px 0;
+  margin: 25px 0;
 }
 /* end project list */
 
