@@ -264,6 +264,10 @@ html {
 .project-list-item {
   margin: 25px 0;
 }
+
+.project-list-item a {
+  color: #005bbf;
+}
 /* end project list */
 
 #contact a {
