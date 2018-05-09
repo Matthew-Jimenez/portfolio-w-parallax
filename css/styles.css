@@ -7,10 +7,13 @@ html {
   font-size: 1em;
 }
 
-.section-header {
-  font-weight: bold;
-}
 
+
+/*********************************
+**********************************
+**********************************
+* social *********************
+*********************************/
 .social-links div {
   display: inline-block;
   margin: 0px 10px;
@@ -27,6 +30,7 @@ html {
   bottom: -60%;
   color: rgb(51, 51, 51);
 }
+/* end social */
 
 
 /*********************************
@@ -177,6 +181,9 @@ html {
 **********************************
 * content section ****************
 *********************************/
+.section-header {
+  font-weight: bold;
+}
 .content-section {
   box-shadow: 0px 0px 46px -6px black;
   background-color: #ececec;
