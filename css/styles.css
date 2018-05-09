@@ -7,6 +7,10 @@ html {
   font-size: 1em;
 }
 
+.section-header {
+  font-weight: bold;
+}
+
 
 /*********************************
 **********************************
@@ -218,9 +222,10 @@ html {
   transform: scale(1.1);
 }
 
+
+
 .proficient-skill {
-  color:#548bb7;
-  font-weight: bold;
+  color: green;
 }
 /*  end skills styles */
 
