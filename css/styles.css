@@ -204,31 +204,22 @@ html {
 /*********************************
 **********************************
 **********************************
-* selection styles ***************
+* skills  ************************
 *********************************/
-.selection-item {
-  padding: 0;
-  border-radius: 50%;
-  box-shadow: 0px 0px 5px 1px black;
+.skill-list {
+  list-style: none;
 }
 
-.selection-item img {
-  border-radius: 50%;
-  height: auto;
-  width: 100%;
-}
-
-.selection-item img:hover{
-  cursor: pointer;
+.skill-list li:hover {
+  cursor: default;
   transform: scale(1.1);
-  z-index: 9999;
-  box-shadow: 0px 0px 35px -3px black;
 }
 
-.selection-item:hover {
-  z-index: 9999;
+.proficient-skill {
+  color:#548bb7;
+  font-weight: bold;
 }
-/*  end selection styles */
+/*  end skills styles */
 
 
 
