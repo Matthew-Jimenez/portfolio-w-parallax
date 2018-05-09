@@ -257,5 +257,9 @@ html {
 .project-list-item {
   margin: 50px 0;
 }
-
 /* end project list */
+
+#contact a {
+  font-weight: bold;
+  color: initial;
+}
