@@ -196,6 +196,7 @@ html {
 .content-section--inner {
   color: #5f5f5f;  
   width: 50%;
+  max-width: 1000px;
   margin: 0 auto;
   height: 100%;
   padding-top: 100px;
