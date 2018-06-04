@@ -1,0 +1,11 @@
+.skill-list {
+    list-style: none;
+
+    li:hover {
+        transform: scale(1.1);
+    }
+}
+    
+.proficient-skill {
+    color: green;
+}

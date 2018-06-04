@@ -1,0 +1,19 @@
+.social-links {
+    div {
+        display: inline-block;
+        margin: 0px 10px;
+        position: relative;
+    }
+
+    img {
+        height: 40px;
+        width: 40px;
+    }
+
+    a:hover::after {
+        content: attr(data-line); 
+        position: absolute;
+        bottom: -60%;
+        color: rgb(51, 51, 51);
+    }
+}
