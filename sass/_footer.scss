@@ -1,0 +1,19 @@
+.footer-section {
+    min-height: 100vh;
+    box-shadow: 0px 6px 19px 0px black;
+    background-color: #ececec;
+    position: relative;
+
+    footer {
+        position: absolute;
+        bottom: 0;
+        left: 50%;
+        transform: translateX(-50%);
+        text-align: center;
+    }
+}
+
+#contact a {
+    font-weight: bold;
+    color: initial;
+}
