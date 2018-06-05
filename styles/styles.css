@@ -173,6 +173,7 @@ html {
 }
 
 .navbar {
+  background-color: #443e36;
   box-shadow: 0px 3px 16px -2px dimgrey;
   position: sticky;
   position: -webkit-sticky;

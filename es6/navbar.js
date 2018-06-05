@@ -17,7 +17,7 @@ document.addEventListener('scroll', () => {
 
     // else keep original style    
     if(distanceFromTop > 0) {
-        navbar.style.backgroundColor = "#1d1d1d";
+        navbar.style.backgroundColor = "#443e36";
         navbar.classList.add("navbar-dark");
         navbar.classList.remove("navbar-light");
     }
