@@ -1,19 +1,21 @@
 .footer-section {
-    min-height: 100vh;
+  min-height: 100vh;
+  @media screen and (min-width: 1024px) {
     box-shadow: 0px 6px 19px 0px black;
-    background-color: #ececec;
-    position: relative;
+  }
+  background-color: #ececec;
+  position: relative;
 
-    footer {
-        position: absolute;
-        bottom: 0;
-        left: 50%;
-        transform: translateX(-50%);
-        text-align: center;
-    }
+  footer {
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    text-align: center;
+  }
 }
 
 #contact a {
-    font-weight: bold;
-    color: initial;
+  font-weight: bold;
+  color: initial;
 }
